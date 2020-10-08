@@ -44,6 +44,8 @@ function fancyAlert(arg) {
 
 https://www.github.com/vibhuvikrama/hypervvik.github.io/edit/gh-pages/
 
+http://www.github.com/
+
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
