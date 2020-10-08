@@ -40,7 +40,7 @@ function fancyAlert(arg) {
     }
     
 
-https://github.com/vibhuvikrama/hypervvik.github.io/edit/gh-pages/index.md
+https://github.com/vibhuvikrama/hypervvik.github.io/edit/gh-pages/
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
