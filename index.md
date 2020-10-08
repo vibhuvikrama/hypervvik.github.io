@@ -25,6 +25,22 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
+```javascript
+function fancyAlert(arg) {
+  if(arg) {
+    $.facebox({div:'#foo'})
+  }
+}
+```
+
+function fancyAlert(arg) {
+      if(arg) {
+        $.facebox({div:'#foo'})
+      }
+    }
+    
+
+https://github.com/vibhuvikrama/hypervvik.github.io/edit/gh-pages/index.md
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
