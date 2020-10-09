@@ -2,9 +2,9 @@
 
 ## Welcome to hypervvik's Page
 
-<figure class="video_container">
+{<figure class="video_container">
   <iframe src="https://youtu.be/kJphZN-qAR4" frameborder="0" allowfullscreen="true"> </iframe>
-</figure>
+</figure>}
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/kJphZN-qAR4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
