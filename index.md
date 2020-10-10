@@ -2,6 +2,19 @@
 
 ## Welcome to hypervvik's Page
 
+<!-- 💁 Include both scripts below to support all browsers! -->
+
+<!-- Loads <model-viewer> for modern browsers: -->
+<script type="module"
+    src="https://unpkg.com/@google/model-viewer/dist/model-viewer.js">
+</script>
+
+<!-- Loads <model-viewer> for old browsers like IE11: -->
+<script nomodule
+    src="https://unpkg.com/@google/model-viewer/dist/model-viewer-legacy.js">
+</script>
+
+
 <model-viewer src="Tejas_Navy_LITE_glb.gltf"
               alt="Tejas">
 </model-viewer>
@@ -65,14 +78,3 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
 
 
-<!-- 💁 Include both scripts below to support all browsers! -->
-
-<!-- Loads <model-viewer> for modern browsers: -->
-<script type="module"
-    src="https://unpkg.com/@google/model-viewer/dist/model-viewer.js">
-</script>
-
-<!-- Loads <model-viewer> for old browsers like IE11: -->
-<script nomodule
-    src="https://unpkg.com/@google/model-viewer/dist/model-viewer-legacy.js">
-</script>
