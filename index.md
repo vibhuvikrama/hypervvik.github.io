@@ -2,25 +2,7 @@
 
 ## Welcome to hypervvik's Page
 
-<!-- 💁 Include both scripts below to support all browsers! -->
-
-<!-- Loads <model-viewer> for modern browsers: -->
-<script type="module"
-    src="https://unpkg.com/@google/model-viewer/dist/model-viewer.js">
-</script>
-
-<!-- Loads <model-viewer> for old browsers like IE11: -->
-<script nomodule
-    src="https://unpkg.com/@google/model-viewer/dist/model-viewer-legacy.js">
-</script>
-
-
-<model-viewer src="Tejas_Navy_LITE_glb.gltf"
-              alt="Tejas">
-</model-viewer>
-
-
-
+<script src="https://embed.github.com/view/3d/skalnik/secret-bear-clip/master/stl/clip.stl"></script>
 
 
 You can use the [editor on GitHub](https://github.com/vibhuvikrama/hypervvik.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
