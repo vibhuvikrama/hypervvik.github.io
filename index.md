@@ -4,6 +4,8 @@
 
 <script src="https://embed.github.com/view/3d/skalnik/secret-bear-clip/master/stl/clip.stl"></script>
 
+<script src="https://embed.github.com/view/3d/vibhuvikrama/hypervvik.github.io/blob/gh-pages/Tejas_Navy_LITE_glb.gltf"></script>
+
 
 You can use the [editor on GitHub](https://github.com/vibhuvikrama/hypervvik.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
