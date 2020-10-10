@@ -2,9 +2,11 @@
 
 ## Welcome to hypervvik's Page
 
-<script src="https://embed.github.com/view/3d/skalnik/secret-bear-clip/master/stl/clip.stl"></script>
+<script src="https://embed.github.com/view/3d/skalnik/secret-bear-clip/master/stl/clip.stl"></script> 
 
-<script src="https://embed.github.com/view/3d/vibhuvikrama/hypervvik.github.io/blob/gh-pages/AnyConv.com__Tejas_Navy_LITE.stl"></script>
+<script src="https://embed.github.com/view/3d/vibhuvikrama/hypervvik.github.io/gh-pages/AnyConv.com__Tejas_Navy_LITE.stl"></script>
+
+**removed blob**
 
 
 You can use the [editor on GitHub](https://github.com/vibhuvikrama/hypervvik.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
