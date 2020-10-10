@@ -2,8 +2,8 @@
 
 ## Welcome to hypervvik's Page
 
-<model-viewer src="third_party/Astronaut/Astronaut.glb"
-              alt="A 3D model of an astronaut">
+<model-viewer src="Tejas_Navy_LITE_glb.gltf"
+              alt="Tejas">
 </model-viewer>
 
 
