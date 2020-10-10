@@ -8,13 +8,7 @@
 
 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kJphZN-qAR4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-<!-- Import the component -->
-<script type="module" src="https://unpkg.com/@google/model-viewer/dist/model-viewer.min.js"></script>
-<script nomodule src="https://unpkg.com/@google/model-viewer/dist/model-viewer-legacy.js"></script>
-<!-- Use it like any other HTML element -->
-<model-viewer src="shared-assets/models/Astronaut.glb" alt="A 3D model of an astronaut" auto-rotate camera-controls></model-viewer>
 
 You can use the [editor on GitHub](https://github.com/vibhuvikrama/hypervvik.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
