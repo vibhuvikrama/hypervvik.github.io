@@ -2,7 +2,7 @@
 
 ## Welcome to hypervvik's Page
 
-<script src="https://embed.github.com/view/3d/skalnik/secret-bear-clip/master/stl/clip.stl"></script> 
+<script src="https://embed.github.com/view/3d/skalnik/secret-bear-clip/master/stl/clip.stl" ?height=300&width=500></script> 
 
 <script src="https://embed.github.com/view/3d/vibhuvikrama/hypervvik.github.io/gh-pages/AnyConv.com__Tejas_Navy_LITE.stl"></script>
 
